@@ -1,0 +1,8 @@
+D:\join community\projeto\joinCripto\src\Hydrido\bin\Debug\Hydrido.exe.config
+D:\join community\projeto\joinCripto\src\Hydrido\bin\Debug\Hydrido.exe
+D:\join community\projeto\joinCripto\src\Hydrido\bin\Debug\Hydrido.pdb
+D:\join community\projeto\joinCripto\src\Hydrido\bin\Debug\RamdomNumbers.exe
+D:\join community\projeto\joinCripto\src\Hydrido\bin\Debug\RamdomNumbers.pdb
+D:\join community\projeto\joinCripto\src\Hydrido\obj\Debug\Hydrido.csprojResolveAssemblyReference.cache
+D:\join community\projeto\joinCripto\src\Hydrido\obj\Debug\Hydrido.exe
+D:\join community\projeto\joinCripto\src\Hydrido\obj\Debug\Hydrido.pdb

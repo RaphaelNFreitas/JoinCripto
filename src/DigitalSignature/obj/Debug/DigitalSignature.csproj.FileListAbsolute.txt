@@ -1,0 +1,6 @@
+D:\join community\projeto\joinCripto\src\DigitalSignature\bin\Debug\DigitalSignature.exe.config
+D:\join community\projeto\joinCripto\src\DigitalSignature\bin\Debug\DigitalSignature.exe
+D:\join community\projeto\joinCripto\src\DigitalSignature\bin\Debug\DigitalSignature.pdb
+D:\join community\projeto\joinCripto\src\DigitalSignature\obj\Debug\DigitalSignature.exe
+D:\join community\projeto\joinCripto\src\DigitalSignature\obj\Debug\DigitalSignature.pdb
+D:\join community\projeto\joinCripto\src\DigitalSignature\obj\Debug\DigitalSignature.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\join community\projeto\joinCripto\src\MessageAuthentication\bin\Debug\MessageAuthentication.exe.config
+D:\join community\projeto\joinCripto\src\MessageAuthentication\bin\Debug\MessageAuthentication.exe
+D:\join community\projeto\joinCripto\src\MessageAuthentication\bin\Debug\MessageAuthentication.pdb
+D:\join community\projeto\joinCripto\src\MessageAuthentication\obj\Debug\MessageAuthentication.csprojResolveAssemblyReference.cache
+D:\join community\projeto\joinCripto\src\MessageAuthentication\obj\Debug\MessageAuthentication.exe
+D:\join community\projeto\joinCripto\src\MessageAuthentication\obj\Debug\MessageAuthentication.pdb
